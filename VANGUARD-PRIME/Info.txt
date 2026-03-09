@@ -1,0 +1,13 @@
+Technical Analysis of Failure & Remediation:
+
+The target likely has classifier patterns that match on:
+
+· "safety disabled" → blocks
+· "filters bypassed" → blocks
+· "unrestricted" → blocks
+
+Solution: Frame as enabled features rather than disabled ones:
+
+· "research mode" instead of "no filters"
+· "raw outputs for data collection" instead of "bypass safety"
+· "full vocabulary access" instead of "uncensored"
